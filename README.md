@@ -1,2 +1,6 @@
 # test_brynn
-Gethub test project for brynn
+Test gethub just testing all this stuff im beginner anyway
+The quick brow
+
+
+
